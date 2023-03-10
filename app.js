@@ -61,6 +61,6 @@ const httpServer = app.listen(port, () =>
     console.log(`Servidor express escuchando en el puerto ${port}`)
 );
 
-configureSocket(httpServer);
+configureSocket(httpServer); 
 
 /**01:15:19 websocket 2*/ 
