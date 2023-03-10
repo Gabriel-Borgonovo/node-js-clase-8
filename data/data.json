@@ -1,0 +1,70 @@
+[
+  {
+    "id": "981efd1e-eb27-4fea-a6d5-582222c46204",
+    "nombre": "Gabriel",
+    "apellido": "Borgonovo"
+  },
+  {
+    "id": "da5f35e8-b6aa-4edf-b102-df915cd6124a",
+    "nombre": "Gabriela",
+    "apellido": "Arias"
+  },
+  {
+    "id": "32531a0e-2adb-4a7c-bdaa-a260208f353f",
+    "nombre": "Brenda",
+    "apellido": "Peralta"
+  },
+  {
+    "id": "25543ccb-8923-4296-bbb0-9f853ae025fe",
+    "nombre": "Joan",
+    "apellido": "Sayas"
+  },
+  {
+    "id": "5ba98a2b-2022-43d3-9136-c7de692b37c0",
+    "nombre": "Maxi",
+    "apellido": "Leal"
+  },
+  {
+    "id": "d7acee2d-8db0-4d3e-8663-ea5159ef565b",
+    "nombre": "Ambar",
+    "apellido": "Zayas"
+  },
+  {
+    "id": "2ec34726-a75d-4d7a-910e-dae070b3e8a7",
+    "nombre": "Aron",
+    "apellido": "Zayas"
+  },
+  {
+    "id": "22a3b1d6-0812-437a-82ce-ccfba46b954c",
+    "nombre": "Auri",
+    "apellido": "Zayas"
+  },
+  {
+    "id": "318aba5f-9a73-4034-9655-37a0d5e5ec33",
+    "nombre": "Esteban",
+    "apellido": "kito"
+  },
+  {
+    "id": "78cdec9b-dad5-486b-b2f5-d46d91aae39f",
+    "nombre": "Luis",
+    "apellido": "Fuentes"
+  },
+  {
+    "id": "0ad4f845-4c40-484a-bd1a-b44ad20a4074",
+    "nombre": "gabo",
+    "apellido": "master",
+    "thumbnail": "1677879452566-fondo2.png"
+  },
+  {
+    "id": "2ae7b585-4142-4f0b-a05d-bdb57f6ae125",
+    "nombre": "asdfa",
+    "apellido": "master",
+    "thumbnail": "1677879524570-695dee68eb98cac2e1603ee69450ab3d.png"
+  },
+  {
+    "id": "cd3908b4-7062-461c-bff9-33fe29e3850e",
+    "nombre": "dsfgsdfg",
+    "apellido": "sdfgsdgf",
+    "thumbnail": "1678057631283-fondo2.png"
+  }
+]

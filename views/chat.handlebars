@@ -1,0 +1,17 @@
+{{>navbar}}
+<div>
+    <h2 class="h2-chat">chat sockets</h2>
+</div>
+<div id="mensajes" class="container-mensajes"></div>
+
+<form class="form-input-chat">
+    <input type="text"  class="input-chat" id="chat-box"/>
+    <div class="container-btn-send-msg">
+        <input type="submit" class="btn-send-msg" id="btn-msg" />
+    </div>
+</form>
+
+
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+<script src="/socket.io/socket.io.js"></script>
+<script src="/js/script.js"></script>

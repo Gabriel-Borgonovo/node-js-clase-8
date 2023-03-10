@@ -1,0 +1,26 @@
+<div>
+    {{> navbar}}
+    {{> title titulo='Programación Backend'}}
+    {{#if admin}}
+        <p>Usted es administrador</p>
+        {{else}}
+            <p>Usted NO es administrador</p>
+    {{/if}}
+
+    <table>
+        <thead>
+            <tr>
+                <th>nombre</th>
+                <th>precio</th>
+            </tr>
+        </thead>
+        <tbody>
+            {{#each food}}
+                <tr>
+                    <th>{{this.nombre}}</th>
+                    <th>{{this.precio}}</th>
+                </tr>
+            {{/each}}
+        </tbody>
+    </table>
+</div>
